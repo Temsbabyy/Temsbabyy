@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on an Artmarketplace site. It is to help creators push out their crafts to the world and easily access buyers.
 - 🌱 I’m currently learning Data Analysis.
 - 👯 I’m looking to collaborate on more Front-end Developers Project.
-- ⚡ Fun fact: When i am less busy i am watchimg movies.
+- ⚡ Fun fact: When i am less busy i am watching movies.
 -->
 
 <h2> 🤳 Connect with me:</h2>
